@@ -1,0 +1,160 @@
+{
+  "$comment": "Seed for the recipe_sources table (Stage 2/5). robots.txt checked 2026-11-07 with UA 'MealTapBot/0.1'. A permissive robots.txt is not permission to republish: email each owner and update permission_status. Authors come from each recipe page's JSON-LD at ingest time, never guessed here. image_policy 'link_only' means we don't copy photos; switch to 'rehost' only once permission_status is 'granted'.",
+  "checked_at": "2026-11-07",
+  "sources": [
+    {
+      "id": "panlasang-pinoy",
+      "name": "Panlasang Pinoy",
+      "base_url": "https://panlasangpinoy.com",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "wprm",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "Large Filipino recipe catalog. WP Recipe Maker JSON-LD."
+    },
+    {
+      "id": "kawaling-pinoy",
+      "name": "Kawaling Pinoy",
+      "base_url": "https://www.kawalingpinoy.com",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "wprm, mv-create",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "Detailed home-style recipes."
+    },
+    {
+      "id": "foxy-folksy",
+      "name": "Foxy Folksy",
+      "base_url": "https://www.foxyfolksy.com",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "wprm",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": ""
+    },
+    {
+      "id": "ang-sarap",
+      "name": "Ang Sarap",
+      "base_url": "https://www.angsarap.net",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "tasty-recipes",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "Tasty Recipes JSON-LD."
+    },
+    {
+      "id": "manila-spoon",
+      "name": "Manila Spoon",
+      "base_url": "https://www.manilaspoon.com",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "wprm, mv-create",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": ""
+    },
+    {
+      "id": "recipes-by-nora",
+      "name": "Recipes by Nora",
+      "base_url": "https://www.recipesbynora.com",
+      "enabled": true,
+      "permission_status": "not_requested",
+      "structured_data": "wprm, tasty-recipes",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": ""
+    },
+    {
+      "id": "riverten-kitchen",
+      "name": "Riverten Kitchen",
+      "base_url": "https://riverten.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "No recipe plugin detected on the home page. Check a recipe page for JSON-LD in Stage 5 before enabling."
+    },
+    {
+      "id": "overseas-pinoy-cooking",
+      "name": "Overseas Pinoy Cooking",
+      "base_url": "https://www.overseaspinoycooking.net",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "No recipe plugin detected on the home page. Check in Stage 5."
+    },
+    {
+      "id": "lutong-bahay-recipe",
+      "name": "Lutong Bahay Recipe",
+      "base_url": "https://lutongbahayrecipe.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "No recipe plugin detected on the home page. Check in Stage 5."
+    },
+    {
+      "id": "pinoy-cooking-recipes",
+      "name": "Pinoy Cooking Recipes",
+      "base_url": "https://www.pinoycookingrecipes.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Allows general crawlers; no AI-specific blocks.",
+      "notes": "No recipe plugin detected on the home page. Check in Stage 5."
+    },
+    {
+      "id": "yummy-ph",
+      "name": "Yummy.ph",
+      "base_url": "https://www.yummy.ph",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Blocks GPTBot, anthropic-ai, CCBot, Google-Extended and PerplexityBot.",
+      "notes": "Owner has opted out of AI use. Only enable with written permission."
+    },
+    {
+      "id": "salu-salo",
+      "name": "Salu Salo Recipes",
+      "base_url": "https://salu-salo.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "wprm",
+      "image_policy": "link_only",
+      "robots": "Blocks ChatGPT-User, GPTBot and anthropic-ai.",
+      "notes": "Owner has opted out of AI use. Only enable with written permission."
+    },
+    {
+      "id": "mamas-guide-recipes",
+      "name": "Mama's Guide Recipes",
+      "base_url": "https://www.mamasguiderecipes.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Blocks ClaudeBot and Bytespider.",
+      "notes": "Owner has opted out of AI use. Only enable with written permission."
+    },
+    {
+      "id": "the-peach-kitchen",
+      "name": "The Peach Kitchen",
+      "base_url": "https://www.thepeachkitchen.com",
+      "enabled": false,
+      "permission_status": "not_requested",
+      "structured_data": "unknown",
+      "image_policy": "link_only",
+      "robots": "Blocks ClaudeBot, anthropic-ai, Claude-Web, GPTBot, CCBot, Google-Extended and Bytespider.",
+      "notes": "Owner has opted out of AI use. Only enable with written permission."
+    }
+  ]
+}

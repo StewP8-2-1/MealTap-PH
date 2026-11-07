@@ -1,0 +1,143 @@
+slug,name_en,name_local,aliases,category,usda_fdc_id,notes
+kangkong,Water spinach,Kangkong,kangkong|water spinach|swamp cabbage|tangkong,vegetable,,Not in USDA SR Legacy. Needs PhilFCT.
+malunggay,Moringa leaves,Malunggay,malunggay|kalamunggay|moringa|drumstick leaves,vegetable,168416,
+ampalaya,Bitter gourd,Ampalaya,ampalaya|amargoso|bitter melon|bitter gourd,vegetable,168393,
+dahon-ng-ampalaya,Bitter gourd leaves,Dahon ng ampalaya,dahon ng ampalaya|talbos ng ampalaya|bitter gourd leaves,vegetable,168391,
+sitaw,String beans (yardlong beans),Sitaw,sitaw|string beans|yardlong beans|long beans,vegetable,169222,
+talong,Eggplant,Talong,talong|eggplant|aubergine,vegetable,169228,
+okra,Okra,Okra,okra|lady fingers,vegetable,169260,
+kalabasa,Squash (pumpkin),Kalabasa,kalabasa|squash|pumpkin,vegetable,168448,
+sayote,Chayote,Sayote,sayote|chayote,vegetable,170402,
+pechay,Bok choy,Pechay,pechay|pechay tagalog|bok choy|pak choi,vegetable,170390,
+repolyo,Cabbage,Repolyo,repolyo|cabbage,vegetable,169975,
+sibuyas,Onion,Sibuyas,sibuyas|sibuyas pula|sibuyas puti|onion|red onion|white onion,vegetable,170000,
+bawang,Garlic,Bawang,bawang|garlic|ahos,spice_herb,169230,
+luya,Ginger,Luya,luya|ginger|ginger root,spice_herb,169231,
+kamatis,Tomato,Kamatis,kamatis|tomato|tomatoes,vegetable,170457,
+patatas,Potato,Patatas,patatas|potato|potatoes,vegetable,170026,
+kamote,Sweet potato,Kamote,kamote|sweet potato|camote,vegetable,168482,
+kamoteng-kahoy,Cassava,Kamoteng kahoy,kamoteng kahoy|balinghoy|cassava|yuca,vegetable,169985,
+gabi,Taro,Gabi,gabi|taro|taro root,vegetable,169308,
+dahon-ng-gabi,Taro leaves,Dahon ng gabi,dahon ng gabi|taro leaves|laing leaves,vegetable,168487,
+karot,Carrot,Karot,karot|carrot|carrots,vegetable,170393,
+siling-labuyo,Red chili pepper,Siling labuyo,siling labuyo|sili|red chili|bird's eye chili,spice_herb,170106,USDA entry is generic red hot chili.
+siling-haba,Green chili pepper,Siling haba,siling haba|siling pansigang|siling green|finger chili|green chili,spice_herb,170497,
+bell-pepper-green,Green bell pepper,Bell pepper (berde),bell pepper|green bell pepper|capsicum,vegetable,170427,
+bell-pepper-red,Red bell pepper,Bell pepper (pula),red bell pepper|red capsicum,vegetable,170108,
+mais,Sweet corn,Mais,mais|corn|sweet corn,vegetable,169998,
+toge,Mung bean sprouts,Toge,toge|togue|bean sprouts|mung bean sprouts,vegetable,169957,
+monggo,Mung beans (dried),Monggo,monggo|munggo|mung beans|green mung beans,legume,174256,
+upo,Bottle gourd,Upo,upo|bottle gourd|calabash,vegetable,169232,
+patola,Sponge gourd,Patola,patola|luffa|sponge gourd,vegetable,168414,
+labong,Bamboo shoots,Labong,labong|bamboo shoots,vegetable,169210,
+alugbati,Malabar spinach,Alugbati,alugbati|malabar spinach|basella,vegetable,170474,
+saluyot,Jute leaves,Saluyot,saluyot|jute leaves|jute mallow,vegetable,168419,
+mustasa,Mustard greens,Mustasa,mustasa|mustard greens,vegetable,169256,
+sigarilyas,Winged bean,Sigarilyas,sigarilyas|winged bean|winged beans,vegetable,170476,USDA entry is immature seeds/young pods.
+spinach,Spinach,Spinach,spinach|espinaka,vegetable,168462,
+pipino,Cucumber,Pipino,pipino|cucumber,vegetable,168409,
+dahon-ng-sibuyas,Green onion,Dahon ng sibuyas,dahon ng sibuyas|sibuyas dahon|green onion|scallion|spring onion,spice_herb,170005,
+wansoy,Cilantro,Wansoy,wansoy|cilantro|coriander leaves,spice_herb,169997,
+tanglad,Lemongrass,Tanglad,tanglad|lemongrass|lemon grass,spice_herb,168573,
+kabute,Button mushroom,Kabute,kabute|mushroom|mushrooms|button mushroom,vegetable,169251,
+shiitake,Shiitake mushroom,Shiitake,shiitake|shiitake mushroom,vegetable,169242,
+baguio-beans,Green beans,Baguio beans,baguio beans|habichuelas|green beans|snap beans,vegetable,169961,
+garbanzos,Chickpeas (canned),Garbanzos,garbanzos|chickpeas|garbanzo beans,legume,173800,Canned and drained.
+tokwa,Firm tofu,Tokwa,tokwa|tofu|firm tofu|tokwa na matigas,legume,172475,
+letsugas,Lettuce,Letsugas,letsugas|lettuce|green leaf lettuce,vegetable,169249,
+labanos,Radish,Labanos,labanos|radish|daikon|white radish,vegetable,168451,
+broccoli,Broccoli,Broccoli,broccoli,vegetable,170379,
+cauliflower,Cauliflower,Cauliflower,cauliflower|koliplor,vegetable,169986,
+celery,Celery,Celery,celery|western celery,vegetable,169988,Western celery. Chinese celery (kinchay) is a different plant.
+zucchini,Zucchini,Zucchini,zucchini,vegetable,169291,
+saging-saba,Saba banana,Saging na saba,saba|saging na saba|cooking banana|plantain,fruit,169130,USDA plantain used as the closest match for saba.
+saging,Banana,Saging,saging|banana|lakatan|latundan,fruit,173944,
+mangga,Mango,Mangga,mangga|mango|ripe mango,fruit,169910,
+papaya,Papaya,Papaya,papaya|ripe papaya,fruit,169926,USDA entry is ripe papaya; not for green papaya.
+pinya,Pineapple,Pinya,pinya|pineapple,fruit,169124,
+niyog,Grated coconut meat,Niyog,niyog|kinayod na niyog|grated coconut|coconut meat,fruit,170169,
+gata,Coconut milk,Gata,gata|gata ng niyog|coconut milk|kakang gata,oil_fat,170172,Fresh-pressed coconut milk.
+gata-canned,Coconut milk (canned),Gata (de lata),canned coconut milk,oil_fat,170173,
+buko-juice,Coconut water,Sabaw ng buko,buko juice|coconut water|sabaw ng buko,fruit,170174,
+sampalok,Tamarind,Sampalok,sampalok|tamarind,fruit,167763,
+langka,Jackfruit,Langka,langka|jackfruit,fruit,174687,
+abokado,Avocado,Abokado,abokado|avocado,fruit,171705,
+calamansi,Calamansi,Calamansi,calamansi|kalamansi|philippine lime,fruit,,Not in USDA SR Legacy. Needs PhilFCT.
+dayap,Lime,Dayap,dayap|lime,fruit,168155,
+bigas,White rice (uncooked),Bigas,bigas|white rice|rice|uncooked rice,grain_starch,169756,
+kanin,Steamed white rice,Kanin,kanin|cooked rice|steamed rice|white rice cooked,grain_starch,169757,
+brown-rice,Brown rice (uncooked),Pinawa,brown rice|pinawa|uncooked brown rice,grain_starch,169703,
+brown-rice-cooked,Brown rice (cooked),Kanin na pinawa,cooked brown rice,grain_starch,169704,
+malagkit,Glutinous rice,Malagkit,malagkit|glutinous rice|sticky rice|sweet rice,grain_starch,168883,
+oats,Rolled oats,Oats,oats|rolled oats|oatmeal,grain_starch,173904,
+bihon,Rice noodles,Bihon,bihon|rice noodles|rice vermicelli,grain_starch,169742,
+sotanghon,Glass noodles,Sotanghon,sotanghon|glass noodles|vermicelli|cellophane noodles,grain_starch,174258,
+pancit-canton,Egg noodles (dried),Pancit canton,pancit canton|canton noodles|egg noodles|miki,grain_starch,169755,USDA dried egg noodles used as the closest match.
+tinapay,White bread,Tinapay,tinapay|white bread|tasty|loaf bread|sliced bread,grain_starch,174924,
+whole-wheat-bread,Whole wheat bread,Whole wheat na tinapay,whole wheat bread|wheat bread,grain_starch,172688,
+harina,All-purpose flour,Harina,harina|flour|all-purpose flour,grain_starch,168894,
+gawgaw,Cornstarch,Gawgaw,gawgaw|cornstarch|corn starch,grain_starch,169698,
+manok,Chicken meat,Manok,manok|chicken|chicken meat,poultry,171052,Meat only.
+chicken-breast,Chicken breast (skinless),Pitso ng manok,pitso|chicken breast|skinless chicken breast,poultry,171077,
+chicken-thigh,Chicken thigh (skinless),Hita ng manok,hita ng manok|chicken thigh,poultry,173627,
+chicken-drumstick,Chicken drumstick (skinless),Drumstick ng manok,drumstick|chicken drumstick|chicken legs,poultry,173614,
+chicken-wings,Chicken wings,Pakpak ng manok,pakpak|chicken wings|wings,poultry,172390,With skin.
+atay-ng-manok,Chicken liver,Atay ng manok,atay ng manok|chicken liver,poultry,171060,
+baboy-lomo,Pork loin (lean),Lomo ng baboy,lomo|pork loin|lean pork,meat,168230,
+liempo,Pork belly,Liempo,liempo|pork belly,meat,167812,
+giniling-na-baboy,Ground pork,Giniling na baboy,giniling na baboy|ground pork|giniling,meat,167902,
+kasim,Pork shoulder (lean),Kasim,kasim|pork shoulder,meat,167845,
+giniling-na-baka,Ground beef (90% lean),Giniling na baka,giniling na baka|ground beef,meat,174030,
+baka,Beef chuck (lean),Baka,baka|beef|beef chuck|beef cubes,meat,169445,
+beef-shank,Beef shank,Bulalo (laman),bulalo|beef shank|shank,meat,169441,Lean meat only; bone marrow not included.
+tilapia,Tilapia,Tilapia,tilapia,seafood,175176,
+bangus,Milkfish,Bangus,bangus|milkfish,seafood,173675,
+galunggong,Round scad,Galunggong,galunggong|GG|round scad,seafood,,Not in USDA SR Legacy. Needs PhilFCT.
+tanigue,Spanish mackerel,Tanigue,tanigue|spanish mackerel,seafood,173673,USDA Spanish mackerel (same genus as tanigue).
+tuna,Tuna (fresh),Tambakol,tuna|tambakol|yellowfin tuna|fresh tuna,seafood,175159,
+tuna-canned,Tuna (canned in water),Tuna de lata,canned tuna|tuna in water|tuna flakes,seafood,173709,Drained.
+sardinas,Sardines in tomato sauce,Sardinas,sardinas|sardines|canned sardines,seafood,175140,
+hipon,Shrimp,Hipon,hipon|shrimp|prawns|sugpo,seafood,175179,
+pusit,Squid,Pusit,pusit|squid|calamari,seafood,174223,
+tahong,Mussels,Tahong,tahong|mussels|green mussels,seafood,174216,USDA blue mussel used as the closest match.
+halaan,Clams,Halaan,halaan|clams|tulya,seafood,174214,
+alimasag,Crab,Alimasag,alimasag|alimango|crab|blue crab,seafood,174204,USDA blue crab.
+dilis,Anchovy (fresh),Dilis,dilis|anchovy|fresh anchovy,seafood,174182,Fresh only; dried dilis differs a lot.
+itlog,Egg,Itlog,itlog|egg|eggs|chicken egg,egg_dairy,171287,
+itlog-ng-pugo,Quail egg,Itlog ng pugo,itlog ng pugo|quail egg|quail eggs,egg_dairy,172191,
+itlog-ng-pato,Duck egg,Itlog ng pato,itlog ng pato|duck egg,egg_dairy,172189,Fresh duck egg (not salted or balut).
+gatas,Whole milk,Gatas,gatas|milk|fresh milk|whole milk,egg_dairy,171265,
+evaporated-milk,Evaporated milk,Evap,evap|evaporated milk|evaporada,egg_dairy,171276,
+keso,Cheddar cheese,Keso,keso|cheddar|cheddar cheese|cheese,egg_dairy,170899,
+yogurt,Plain yogurt (low fat),Yogurt,yogurt|plain yogurt,egg_dairy,170886,
+mantikilya,Butter,Mantikilya,mantikilya|butter|salted butter,oil_fat,173410,
+toyo,Soy sauce,Toyo,toyo|soy sauce,condiment_sauce,174277,
+toyo-low-sodium,Low-sodium soy sauce,Toyo (low sodium),low sodium soy sauce|lite soy sauce,condiment_sauce,172473,
+patis,Fish sauce,Patis,patis|fish sauce,condiment_sauce,174531,
+suka,Vinegar,Suka,suka|vinegar|cane vinegar|white vinegar|sukang puti,condiment_sauce,172237,USDA distilled vinegar; nutrition is close to zero for any vinegar.
+oyster-sauce,Oyster sauce,Oyster sauce,oyster sauce,condiment_sauce,174529,
+miso,Miso,Miso,miso|miso paste,condiment_sauce,172442,
+asin,Salt,Asin,asin|salt|rock salt|table salt,spice_herb,173468,
+asukal,White sugar,Asukal,asukal|asukal na puti|white sugar|sugar,condiment_sauce,169655,
+asukal-pula,Brown sugar,Asukal na pula,asukal na pula|brown sugar|muscovado,condiment_sauce,168833,
+pulot,Honey,Pulot-pukyutan,pulot|honey,condiment_sauce,169640,
+mantika,Cooking oil (palm),Mantika,mantika|cooking oil|vegetable oil|palm oil,oil_fat,171015,Most Philippine cooking oil is palm oil.
+langis-ng-niyog,Coconut oil,Langis ng niyog,langis ng niyog|coconut oil,oil_fat,171412,
+canola-oil,Canola oil,Canola oil,canola oil,oil_fat,172336,
+olive-oil,Olive oil,Olive oil,olive oil,oil_fat,171413,
+sesame-oil,Sesame oil,Sesame oil,sesame oil,oil_fat,171016,
+mayonnaise,Mayonnaise,Mayonesa,mayonesa|mayonnaise|mayo,condiment_sauce,171009,
+ketchup,Tomato ketchup,Ketsap,ketsap|ketchup|tomato ketchup|catsup,condiment_sauce,168556,
+banana-ketchup,Banana ketchup,Banana catsup,banana ketchup|banana catsup,condiment_sauce,,Not in USDA SR Legacy. Needs PhilFCT.
+tomato-sauce,Tomato sauce,Tomato sauce,tomato sauce,condiment_sauce,170054,
+tomato-paste,Tomato paste,Tomato paste,tomato paste,condiment_sauce,170459,
+paminta,Black pepper,Paminta,paminta|black pepper|pepper|pamintang durog,spice_herb,170931,
+dahon-ng-laurel,Bay leaf,Dahon ng laurel,dahon ng laurel|laurel|bay leaf|bay leaves,spice_herb,170917,
+paprika,Paprika,Paprika,paprika,spice_herb,171329,
+mani,Peanuts,Mani,mani|peanuts|raw peanuts,legume,172430,
+peanut-butter,Peanut butter (unsalted),Peanut butter,peanut butter,legume,172470,
+red-kidney-beans,Red kidney beans,Red kidney beans,red kidney beans|kidney beans|red beans,legume,173744,Dry.
+white-beans,White beans,Puting bitsuwelas,white beans|navy beans|bitsuwelas,legume,175202,Dry.
+bagoong-alamang,Shrimp paste,Bagoong alamang,bagoong|bagoong alamang|shrimp paste,condiment_sauce,,Not in USDA SR Legacy. Needs PhilFCT.
+atsuete,Annatto seeds,Atsuete,atsuete|achuete|annatto,spice_herb,,Not in USDA SR Legacy. Needs PhilFCT.
+tausi,Fermented black beans,Tausi,tausi|salted black beans|fermented black beans,condiment_sauce,,Not in USDA SR Legacy. Needs PhilFCT.

@@ -1,0 +1,143 @@
+slug,name_en,name_local,aliases,category,notes,nutrient_source,source_ref,source_description,calories_kcal,protein_g,carbs_g,fat_g,fiber_g,sugars_g,sodium_mg
+kangkong,Water spinach,Kangkong,kangkong|water spinach|swamp cabbage|tangkong,vegetable,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+malunggay,Moringa leaves,Malunggay,malunggay|kalamunggay|moringa|drumstick leaves,vegetable,,usda_sr_legacy,168416,"Drumstick leaves, raw",64,9.4,8.28,1.4,2,,9
+ampalaya,Bitter gourd,Ampalaya,ampalaya|amargoso|bitter melon|bitter gourd,vegetable,,usda_sr_legacy,168393,"Balsam-pear (bitter gourd), pods, raw",17,1,3.7,0.17,2.8,,5
+dahon-ng-ampalaya,Bitter gourd leaves,Dahon ng ampalaya,dahon ng ampalaya|talbos ng ampalaya|bitter gourd leaves,vegetable,,usda_sr_legacy,168391,"Balsam-pear (bitter gourd), leafy tips, raw",30,5.3,3.29,0.69,,,11
+sitaw,String beans (yardlong beans),Sitaw,sitaw|string beans|yardlong beans|long beans,vegetable,,usda_sr_legacy,169222,"Yardlong bean, raw",47,2.8,8.35,0.4,,,4
+talong,Eggplant,Talong,talong|eggplant|aubergine,vegetable,,usda_sr_legacy,169228,"Eggplant, raw",25,0.98,5.88,0.18,3,3.53,2
+okra,Okra,Okra,okra|lady fingers,vegetable,,usda_sr_legacy,169260,"Okra, raw",33,1.93,7.45,0.19,3.2,1.48,7
+kalabasa,Squash (pumpkin),Kalabasa,kalabasa|squash|pumpkin,vegetable,,usda_sr_legacy,168448,"Pumpkin, raw",26,1,6.5,0.1,0.5,2.76,1
+sayote,Chayote,Sayote,sayote|chayote,vegetable,,usda_sr_legacy,170402,"Chayote, fruit, raw",19,0.82,4.51,0.13,1.7,1.66,2
+pechay,Bok choy,Pechay,pechay|pechay tagalog|bok choy|pak choi,vegetable,,usda_sr_legacy,170390,"Cabbage, chinese (pak-choi), raw",13,1.5,2.18,0.2,1,1.18,65
+repolyo,Cabbage,Repolyo,repolyo|cabbage,vegetable,,usda_sr_legacy,169975,"Cabbage, raw",25,1.28,5.8,0.1,2.5,3.2,18
+sibuyas,Onion,Sibuyas,sibuyas|sibuyas pula|sibuyas puti|onion|red onion|white onion,vegetable,,usda_sr_legacy,170000,"Onions, raw",40,1.1,9.34,0.1,1.7,4.24,4
+bawang,Garlic,Bawang,bawang|garlic|ahos,spice_herb,,usda_sr_legacy,169230,"Garlic, raw",149,6.36,33.06,0.5,2.1,1,17
+luya,Ginger,Luya,luya|ginger|ginger root,spice_herb,,usda_sr_legacy,169231,"Ginger root, raw",80,1.82,17.77,0.75,2,1.7,13
+kamatis,Tomato,Kamatis,kamatis|tomato|tomatoes,vegetable,,usda_sr_legacy,170457,"Tomatoes, red, ripe, raw, year round average",18,0.88,3.89,0.2,1.2,2.63,5
+patatas,Potato,Patatas,patatas|potato|potatoes,vegetable,,usda_sr_legacy,170026,"Potatoes, flesh and skin, raw",77,2.05,17.49,0.09,2.1,0.82,6
+kamote,Sweet potato,Kamote,kamote|sweet potato|camote,vegetable,,usda_sr_legacy,168482,"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",86,1.57,20.12,0.05,3,4.18,55
+kamoteng-kahoy,Cassava,Kamoteng kahoy,kamoteng kahoy|balinghoy|cassava|yuca,vegetable,,usda_sr_legacy,169985,"Cassava, raw",160,1.36,38.06,0.28,1.8,1.7,14
+gabi,Taro,Gabi,gabi|taro|taro root,vegetable,,usda_sr_legacy,169308,"Taro, raw",112,1.5,26.46,0.2,4.1,0.4,11
+dahon-ng-gabi,Taro leaves,Dahon ng gabi,dahon ng gabi|taro leaves|laing leaves,vegetable,,usda_sr_legacy,168487,"Taro leaves, raw",42,4.98,6.7,0.74,3.7,3.01,3
+karot,Carrot,Karot,karot|carrot|carrots,vegetable,,usda_sr_legacy,170393,"Carrots, raw",41,0.93,9.58,0.24,2.8,4.74,69
+siling-labuyo,Red chili pepper,Siling labuyo,siling labuyo|sili|red chili|bird's eye chili,spice_herb,USDA entry is generic red hot chili.,usda_sr_legacy,170106,"Peppers, hot chili, red, raw",40,1.87,8.81,0.44,1.5,5.3,9
+siling-haba,Green chili pepper,Siling haba,siling haba|siling pansigang|siling green|finger chili|green chili,spice_herb,,usda_sr_legacy,170497,"Peppers, hot chili, green, raw",40,2,9.46,0.2,1.5,5.1,7
+bell-pepper-green,Green bell pepper,Bell pepper (berde),bell pepper|green bell pepper|capsicum,vegetable,,usda_sr_legacy,170427,"Peppers, sweet, green, raw",20,0.86,4.64,0.17,1.7,2.4,3
+bell-pepper-red,Red bell pepper,Bell pepper (pula),red bell pepper|red capsicum,vegetable,,usda_sr_legacy,170108,"Peppers, sweet, red, raw",26,0.99,6.03,0.3,2.1,4.2,4
+mais,Sweet corn,Mais,mais|corn|sweet corn,vegetable,,usda_sr_legacy,169998,"Corn, sweet, yellow, raw",86,3.27,18.7,1.35,2,6.26,15
+toge,Mung bean sprouts,Toge,toge|togue|bean sprouts|mung bean sprouts,vegetable,,usda_sr_legacy,169957,"Mung beans, mature seeds, sprouted, raw",30,3.04,5.94,0.18,1.8,4.13,6
+monggo,Mung beans (dried),Monggo,monggo|munggo|mung beans|green mung beans,legume,,usda_sr_legacy,174256,"Mung beans, mature seeds, raw",347,23.86,62.62,1.15,16.3,6.6,15
+upo,Bottle gourd,Upo,upo|bottle gourd|calabash,vegetable,,usda_sr_legacy,169232,"Gourd, white-flowered (calabash), raw",14,0.62,3.39,0.02,0.5,,2
+patola,Sponge gourd,Patola,patola|luffa|sponge gourd,vegetable,,usda_sr_legacy,168414,"Gourd, dishcloth (towelgourd), raw",20,1.2,4.35,0.2,1.1,2.02,3
+labong,Bamboo shoots,Labong,labong|bamboo shoots,vegetable,,usda_sr_legacy,169210,"Bamboo shoots, raw",27,2.6,5.2,0.3,2.2,3,4
+alugbati,Malabar spinach,Alugbati,alugbati|malabar spinach|basella,vegetable,,usda_sr_legacy,170474,"Vinespinach, (basella), raw",19,1.8,3.4,0.3,,,24
+saluyot,Jute leaves,Saluyot,saluyot|jute leaves|jute mallow,vegetable,,usda_sr_legacy,168419,"Jute, potherb, raw",34,4.65,5.8,0.25,,,8
+mustasa,Mustard greens,Mustasa,mustasa|mustard greens,vegetable,,usda_sr_legacy,169256,"Mustard greens, raw",27,2.86,4.67,0.42,3.2,1.32,20
+sigarilyas,Winged bean,Sigarilyas,sigarilyas|winged bean|winged beans,vegetable,USDA entry is immature seeds/young pods.,usda_sr_legacy,170476,"Winged beans, immature seeds, raw",49,6.95,4.31,0.87,,,4
+spinach,Spinach,Spinach,spinach|espinaka,vegetable,,usda_sr_legacy,168462,"Spinach, raw",23,2.86,3.63,0.39,2.2,0.42,79
+pipino,Cucumber,Pipino,pipino|cucumber,vegetable,,usda_sr_legacy,168409,"Cucumber, with peel, raw",15,0.65,3.63,0.11,0.5,1.67,2
+dahon-ng-sibuyas,Green onion,Dahon ng sibuyas,dahon ng sibuyas|sibuyas dahon|green onion|scallion|spring onion,spice_herb,,usda_sr_legacy,170005,"Onions, spring or scallions (includes tops and bulb), raw",32,1.83,7.34,0.19,2.6,2.33,16
+wansoy,Cilantro,Wansoy,wansoy|cilantro|coriander leaves,spice_herb,,usda_sr_legacy,169997,"Coriander (cilantro) leaves, raw",23,2.13,3.67,0.52,2.8,0.87,46
+tanglad,Lemongrass,Tanglad,tanglad|lemongrass|lemon grass,spice_herb,,usda_sr_legacy,168573,"Lemon grass (citronella), raw",99,1.82,25.31,0.49,,,6
+kabute,Button mushroom,Kabute,kabute|mushroom|mushrooms|button mushroom,vegetable,,usda_sr_legacy,169251,"Mushrooms, white, raw",22,3.09,3.26,0.34,1,1.98,5
+shiitake,Shiitake mushroom,Shiitake,shiitake|shiitake mushroom,vegetable,,usda_sr_legacy,169242,"Mushrooms, shiitake, raw",34,2.24,6.79,0.49,2.5,2.38,9
+baguio-beans,Green beans,Baguio beans,baguio beans|habichuelas|green beans|snap beans,vegetable,,usda_sr_legacy,169961,"Beans, snap, green, raw",31,1.83,6.97,0.22,2.7,3.26,6
+garbanzos,Chickpeas (canned),Garbanzos,garbanzos|chickpeas|garbanzo beans,legume,Canned and drained.,usda_sr_legacy,173800,"Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",139,7.05,22.53,2.77,6.4,4.01,246
+tokwa,Firm tofu,Tokwa,tokwa|tofu|firm tofu|tokwa na matigas,legume,,usda_sr_legacy,172475,"Tofu, raw, firm, prepared with calcium sulfate",144,17.27,2.78,8.72,2.3,,14
+letsugas,Lettuce,Letsugas,letsugas|lettuce|green leaf lettuce,vegetable,,usda_sr_legacy,169249,"Lettuce, green leaf, raw",15,1.36,2.87,0.15,1.3,0.78,28
+labanos,Radish,Labanos,labanos|radish|daikon|white radish,vegetable,,usda_sr_legacy,168451,"Radishes, oriental, raw",18,0.6,4.1,0.1,1.6,2.5,21
+broccoli,Broccoli,Broccoli,broccoli,vegetable,,usda_sr_legacy,170379,"Broccoli, raw",34,2.82,6.64,0.37,2.6,1.7,33
+cauliflower,Cauliflower,Cauliflower,cauliflower|koliplor,vegetable,,usda_sr_legacy,169986,"Cauliflower, raw",25,1.92,4.97,0.28,2,1.91,30
+celery,Celery,Celery,celery|western celery,vegetable,Western celery. Chinese celery (kinchay) is a different plant.,usda_sr_legacy,169988,"Celery, raw",14,0.69,2.97,0.17,1.6,1.34,80
+zucchini,Zucchini,Zucchini,zucchini,vegetable,,usda_sr_legacy,169291,"Squash, summer, zucchini, includes skin, raw",17,1.21,3.11,0.32,1,2.5,8
+saging-saba,Saba banana,Saging na saba,saba|saging na saba|cooking banana|plantain,fruit,USDA plantain used as the closest match for saba.,usda_sr_legacy,169130,"Plantains, yellow, raw",122,1.3,31.89,0.35,1.7,17.51,4
+saging,Banana,Saging,saging|banana|lakatan|latundan,fruit,,usda_sr_legacy,173944,"Bananas, raw",89,1.09,22.84,0.33,2.6,12.23,1
+mangga,Mango,Mangga,mangga|mango|ripe mango,fruit,,usda_sr_legacy,169910,"Mangos, raw",60,0.82,14.98,0.38,1.6,13.66,1
+papaya,Papaya,Papaya,papaya|ripe papaya,fruit,USDA entry is ripe papaya; not for green papaya.,usda_sr_legacy,169926,"Papayas, raw",43,0.47,10.82,0.26,1.7,7.82,8
+pinya,Pineapple,Pinya,pinya|pineapple,fruit,,usda_sr_legacy,169124,"Pineapple, raw, all varieties",50,0.54,13.12,0.12,1.4,9.85,1
+niyog,Grated coconut meat,Niyog,niyog|kinayod na niyog|grated coconut|coconut meat,fruit,,usda_sr_legacy,170169,"Nuts, coconut meat, raw",354,3.33,15.23,33.49,9,6.23,20
+gata,Coconut milk,Gata,gata|gata ng niyog|coconut milk|kakang gata,oil_fat,Fresh-pressed coconut milk.,usda_sr_legacy,170172,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",230,2.29,5.54,23.84,2.2,3.34,15
+gata-canned,Coconut milk (canned),Gata (de lata),canned coconut milk,oil_fat,,usda_sr_legacy,170173,"Nuts, coconut milk, canned (liquid expressed from grated meat and water)",197,2.02,2.81,21.33,,,13
+buko-juice,Coconut water,Sabaw ng buko,buko juice|coconut water|sabaw ng buko,fruit,,usda_sr_legacy,170174,"Nuts, coconut water (liquid from coconuts)",19,0.72,3.71,0.2,1.1,2.61,105
+sampalok,Tamarind,Sampalok,sampalok|tamarind,fruit,,usda_sr_legacy,167763,"Tamarinds, raw",239,2.8,62.5,0.6,5.1,38.8,28
+langka,Jackfruit,Langka,langka|jackfruit,fruit,,usda_sr_legacy,174687,"Jackfruit, raw",95,1.72,23.25,0.64,1.5,19.08,2
+abokado,Avocado,Abokado,abokado|avocado,fruit,,usda_sr_legacy,171705,"Avocados, raw, all commercial varieties",160,2,8.53,14.66,6.7,0.66,7
+calamansi,Calamansi,Calamansi,calamansi|kalamansi|philippine lime,fruit,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+dayap,Lime,Dayap,dayap|lime,fruit,,usda_sr_legacy,168155,"Limes, raw",30,0.7,10.54,0.2,2.8,1.69,2
+bigas,White rice (uncooked),Bigas,bigas|white rice|rice|uncooked rice,grain_starch,,usda_sr_legacy,169756,"Rice, white, long-grain, regular, raw, unenriched",365,7.13,79.95,0.66,1.3,0.12,5
+kanin,Steamed white rice,Kanin,kanin|cooked rice|steamed rice|white rice cooked,grain_starch,,usda_sr_legacy,169757,"Rice, white, long-grain, regular, unenriched, cooked without salt",130,2.69,28.17,0.28,0.4,0.05,1
+brown-rice,Brown rice (uncooked),Pinawa,brown rice|pinawa|uncooked brown rice,grain_starch,,usda_sr_legacy,169703,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",367,7.54,76.25,3.2,3.6,0.66,5
+brown-rice-cooked,Brown rice (cooked),Kanin na pinawa,cooked brown rice,grain_starch,,usda_sr_legacy,169704,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",123,2.74,25.58,0.97,1.6,0.24,4
+malagkit,Glutinous rice,Malagkit,malagkit|glutinous rice|sticky rice|sweet rice,grain_starch,,usda_sr_legacy,168883,"Rice, white, glutinous, unenriched, uncooked",370,6.81,81.68,0.55,2.8,,7
+oats,Rolled oats,Oats,oats|rolled oats|oatmeal,grain_starch,,usda_sr_legacy,173904,"Cereals, oats, regular and quick, not fortified, dry",379,13.15,67.7,6.52,10.1,0.99,6
+bihon,Rice noodles,Bihon,bihon|rice noodles|rice vermicelli,grain_starch,,usda_sr_legacy,169742,"Rice noodles, dry",364,5.95,80.18,0.56,1.6,0.12,182
+sotanghon,Glass noodles,Sotanghon,sotanghon|glass noodles|vermicelli|cellophane noodles,grain_starch,,usda_sr_legacy,174258,"Noodles, chinese, cellophane or long rice (mung beans), dehydrated",351,0.16,86.09,0.06,0.5,0,10
+pancit-canton,Egg noodles (dried),Pancit canton,pancit canton|canton noodles|egg noodles|miki,grain_starch,USDA dried egg noodles used as the closest match.,usda_sr_legacy,169755,"Noodles, egg, dry, unenriched",384,14.16,71.27,4.44,3.3,1.88,21
+tinapay,White bread,Tinapay,tinapay|white bread|tasty|loaf bread|sliced bread,grain_starch,,usda_sr_legacy,174924,"Bread, white, commercially prepared (includes soft bread crumbs)",266,8.85,49.42,3.33,2.7,5.67,490
+whole-wheat-bread,Whole wheat bread,Whole wheat na tinapay,whole wheat bread|wheat bread,grain_starch,,usda_sr_legacy,172688,"Bread, whole-wheat, commercially prepared",252,12.45,42.71,3.5,6,4.34,455
+harina,All-purpose flour,Harina,harina|flour|all-purpose flour,grain_starch,,usda_sr_legacy,168894,"Wheat flour, white, all-purpose, enriched, bleached",364,10.33,76.31,0.98,2.7,0.27,2
+gawgaw,Cornstarch,Gawgaw,gawgaw|cornstarch|corn starch,grain_starch,,usda_sr_legacy,169698,Cornstarch,381,0.26,91.27,0.05,0.9,0,9
+manok,Chicken meat,Manok,manok|chicken|chicken meat,poultry,Meat only.,usda_sr_legacy,171052,"Chicken, broilers or fryers, meat only, raw",119,21.39,0,3.08,0,0,77
+chicken-breast,Chicken breast (skinless),Pitso ng manok,pitso|chicken breast|skinless chicken breast,poultry,,usda_sr_legacy,171077,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",120,22.5,0,2.62,0,0,45
+chicken-thigh,Chicken thigh (skinless),Hita ng manok,hita ng manok|chicken thigh,poultry,,usda_sr_legacy,173627,"Chicken, broilers or fryers, dark meat, thigh, meat only, raw",121,19.66,0,4.12,0,0,95
+chicken-drumstick,Chicken drumstick (skinless),Drumstick ng manok,drumstick|chicken drumstick|chicken legs,poultry,,usda_sr_legacy,173614,"Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",116,19.41,0,3.71,0,0,114
+chicken-wings,Chicken wings,Pakpak ng manok,pakpak|chicken wings|wings,poultry,With skin.,usda_sr_legacy,172390,"Chicken, broilers or fryers, wing, meat and skin, raw",191,17.52,0,12.85,0,0,84
+atay-ng-manok,Chicken liver,Atay ng manok,atay ng manok|chicken liver,poultry,,usda_sr_legacy,171060,"Chicken, liver, all classes, raw",119,16.92,0.73,4.83,0,0,71
+baboy-lomo,Pork loin (lean),Lomo ng baboy,lomo|pork loin|lean pork,meat,,usda_sr_legacy,168230,"Pork, fresh, loin, whole, separable lean only, raw",143,21.43,0,5.66,0,0,52
+liempo,Pork belly,Liempo,liempo|pork belly,meat,,usda_sr_legacy,167812,"Pork, fresh, belly, raw",518,9.34,0,53.01,0,0,32
+giniling-na-baboy,Ground pork,Giniling na baboy,giniling na baboy|ground pork|giniling,meat,,usda_sr_legacy,167902,"Pork, fresh, ground, raw",263,16.88,0,21.19,0,,56
+kasim,Pork shoulder (lean),Kasim,kasim|pork shoulder,meat,,usda_sr_legacy,167845,"Pork, fresh, shoulder, whole, separable lean only, raw",148,19.55,0,7.14,0,,76
+giniling-na-baka,Ground beef (90% lean),Giniling na baka,giniling na baka|ground beef,meat,,usda_sr_legacy,174030,"Beef, ground, 90% lean meat / 10% fat, raw",176,20,0,10,0,0,66
+baka,Beef chuck (lean),Baka,baka|beef|beef chuck|beef cubes,meat,,usda_sr_legacy,169445,"Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0"" fat, all grades, raw",140,21.13,0.31,6.07,0,0,81
+beef-shank,Beef shank,Bulalo (laman),bulalo|beef shank|shank,meat,Lean meat only; bone marrow not included.,usda_sr_legacy,169441,"Beef, shank crosscuts, separable lean only, trimmed to 1/4"" fat, choice, raw",128,21.75,0,3.85,0,,63
+tilapia,Tilapia,Tilapia,tilapia,seafood,,usda_sr_legacy,175176,"Fish, tilapia, raw",96,20.08,0,1.7,0,0,52
+bangus,Milkfish,Bangus,bangus|milkfish,seafood,,usda_sr_legacy,173675,"Fish, milkfish, raw",148,20.53,0,6.73,0,,72
+galunggong,Round scad,Galunggong,galunggong|gg|round scad,seafood,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+tanigue,Spanish mackerel,Tanigue,tanigue|spanish mackerel,seafood,USDA Spanish mackerel (same genus as tanigue).,usda_sr_legacy,173673,"Fish, mackerel, spanish, raw",139,19.29,0,6.3,0,0,59
+tuna,Tuna (fresh),Tambakol,tuna|tambakol|yellowfin tuna|fresh tuna,seafood,,usda_sr_legacy,175159,"Fish, tuna, fresh, yellowfin, raw",109,24.4,0,0.49,0,0,45
+tuna-canned,Tuna (canned in water),Tuna de lata,canned tuna|tuna in water|tuna flakes,seafood,Drained.,usda_sr_legacy,173709,"Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)",86,19.44,0,0.96,0,0,247
+sardinas,Sardines in tomato sauce,Sardinas,sardinas|sardines|canned sardines,seafood,,usda_sr_legacy,175140,"Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone",185,20.86,0.54,10.45,0.1,0.43,414
+hipon,Shrimp,Hipon,hipon|shrimp|prawns|sugpo,seafood,,usda_sr_legacy,175179,"Crustaceans, shrimp, raw",85,20.1,0,0.51,,,119
+pusit,Squid,Pusit,pusit|squid|calamari,seafood,,usda_sr_legacy,174223,"Mollusks, squid, mixed species, raw",92,15.58,3.08,1.38,0,0,44
+tahong,Mussels,Tahong,tahong|mussels|green mussels,seafood,USDA blue mussel used as the closest match.,usda_sr_legacy,174216,"Mollusks, mussel, blue, raw",86,11.9,3.69,2.24,0,0,286
+halaan,Clams,Halaan,halaan|clams|tulya,seafood,,usda_sr_legacy,174214,"Mollusks, clam, mixed species, raw",86,14.67,3.57,0.96,0,0,601
+alimasag,Crab,Alimasag,alimasag|alimango|crab|blue crab,seafood,USDA blue crab.,usda_sr_legacy,174204,"Crustaceans, crab, blue, raw",87,18.06,0.04,1.08,0,,293
+dilis,Anchovy (fresh),Dilis,dilis|anchovy|fresh anchovy,seafood,Fresh only; dried dilis differs a lot.,usda_sr_legacy,174182,"Fish, anchovy, european, raw",131,20.35,0,4.84,0,0,104
+itlog,Egg,Itlog,itlog|egg|eggs|chicken egg,egg_dairy,,usda_sr_legacy,171287,"Egg, whole, raw, fresh",143,12.56,0.72,9.51,0,0.37,142
+itlog-ng-pugo,Quail egg,Itlog ng pugo,itlog ng pugo|quail egg|quail eggs,egg_dairy,,usda_sr_legacy,172191,"Egg, quail, whole, fresh, raw",158,13.05,0.41,11.09,0,0.4,141
+itlog-ng-pato,Duck egg,Itlog ng pato,itlog ng pato|duck egg,egg_dairy,Fresh duck egg (not salted or balut).,usda_sr_legacy,172189,"Egg, duck, whole, fresh, raw",185,12.81,1.45,13.77,0,0.93,146
+gatas,Whole milk,Gatas,gatas|milk|fresh milk|whole milk,egg_dairy,,usda_sr_legacy,171265,"Milk, whole, 3.25% milkfat, with added vitamin D",61,3.15,4.8,3.25,0,5.05,43
+evaporated-milk,Evaporated milk,Evap,evap|evaporated milk|evaporada,egg_dairy,,usda_sr_legacy,171276,"Milk, canned, evaporated, with added vitamin D and without added vitamin A",134,6.81,10.04,7.56,0,10.04,106
+keso,Cheddar cheese,Keso,keso|cheddar|cheddar cheese|cheese,egg_dairy,,usda_sr_legacy,170899,"Cheese, cheddar, sharp, sliced",410,24.25,2.13,33.82,0,0.27,644
+yogurt,Plain yogurt (low fat),Yogurt,yogurt|plain yogurt,egg_dairy,,usda_sr_legacy,170886,"Yogurt, plain, low fat",63,5.25,7.04,1.55,0,7.04,70
+mantikilya,Butter,Mantikilya,mantikilya|butter|salted butter,oil_fat,,usda_sr_legacy,173410,"Butter, salted",717,0.85,0.06,81.11,0,0.06,643
+toyo,Soy sauce,Toyo,toyo|soy sauce,condiment_sauce,,usda_sr_legacy,174277,Soy sauce made from soy and wheat (shoyu),53,8.14,4.93,0.57,0.8,0.4,5493
+toyo-low-sodium,Low-sodium soy sauce,Toyo (low sodium),low sodium soy sauce|lite soy sauce,condiment_sauce,,usda_sr_legacy,172473,"Soy sauce made from soy and wheat (shoyu), low sodium",57,9.05,5.59,0.3,0.7,0.5,3598
+patis,Fish sauce,Patis,patis|fish sauce,condiment_sauce,,usda_sr_legacy,174531,"Sauce, fish, ready-to-serve",35,5.06,3.64,0.01,0,3.64,7851
+suka,Vinegar,Suka,suka|vinegar|cane vinegar|white vinegar|sukang puti,condiment_sauce,USDA distilled vinegar; nutrition is close to zero for any vinegar.,usda_sr_legacy,172237,"Vinegar, distilled",18,0,0.04,0,0,0.04,2
+oyster-sauce,Oyster sauce,Oyster sauce,oyster sauce,condiment_sauce,,usda_sr_legacy,174529,"Sauce, oyster, ready-to-serve",51,1.35,10.92,0.25,0.3,0,2733
+miso,Miso,Miso,miso|miso paste,condiment_sauce,,usda_sr_legacy,172442,Miso,198,12.79,25.37,6.01,5.4,6.2,3728
+asin,Salt,Asin,asin|salt|rock salt|table salt,spice_herb,,usda_sr_legacy,173468,"Salt, table",0,0,0,0,0,0,38758
+asukal,White sugar,Asukal,asukal|asukal na puti|white sugar|sugar,condiment_sauce,,usda_sr_legacy,169655,"Sugars, granulated",387,0,99.98,0,0,99.8,1
+asukal-pula,Brown sugar,Asukal na pula,asukal na pula|brown sugar|muscovado,condiment_sauce,,usda_sr_legacy,168833,"Sugars, brown",380,0.12,98.09,0,0,97.02,28
+pulot,Honey,Pulot-pukyutan,pulot|honey,condiment_sauce,,usda_sr_legacy,169640,Honey,304,0.3,82.4,0,0.2,82.12,4
+mantika,Cooking oil (palm),Mantika,mantika|cooking oil|vegetable oil|palm oil,oil_fat,Most Philippine cooking oil is palm oil.,usda_sr_legacy,171015,"Oil, palm",884,0,0,100,0,0,0
+langis-ng-niyog,Coconut oil,Langis ng niyog,langis ng niyog|coconut oil,oil_fat,,usda_sr_legacy,171412,"Oil, coconut",892,0,0,99.06,0,0,0
+canola-oil,Canola oil,Canola oil,canola oil,oil_fat,,usda_sr_legacy,172336,"Oil, canola",884,0,0,100,0,0,0
+olive-oil,Olive oil,Olive oil,olive oil,oil_fat,,usda_sr_legacy,171413,"Oil, olive, salad or cooking",884,0,0,100,0,0,2
+sesame-oil,Sesame oil,Sesame oil,sesame oil,oil_fat,,usda_sr_legacy,171016,"Oil, sesame, salad or cooking",884,0,0,100,0,0,0
+mayonnaise,Mayonnaise,Mayonesa,mayonesa|mayonnaise|mayo,condiment_sauce,,usda_sr_legacy,171009,"Salad dressing, mayonnaise, regular",680,0.96,0.57,74.85,0,0.57,635
+ketchup,Tomato ketchup,Ketsap,ketsap|ketchup|tomato ketchup|catsup,condiment_sauce,,usda_sr_legacy,168556,Catsup,101,1.04,27.4,0.1,0.3,21.27,907
+banana-ketchup,Banana ketchup,Banana catsup,banana ketchup|banana catsup,condiment_sauce,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+tomato-sauce,Tomato sauce,Tomato sauce,tomato sauce,condiment_sauce,,usda_sr_legacy,170054,"Tomato products, canned, sauce",24,1.2,5.31,0.3,1.5,3.56,474
+tomato-paste,Tomato paste,Tomato paste,tomato paste,condiment_sauce,,usda_sr_legacy,170459,"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",82,4.32,18.91,0.47,4.1,12.18,59
+paminta,Black pepper,Paminta,paminta|black pepper|pepper|pamintang durog,spice_herb,,usda_sr_legacy,170931,"Spices, pepper, black",251,10.39,63.95,3.26,25.3,0.64,20
+dahon-ng-laurel,Bay leaf,Dahon ng laurel,dahon ng laurel|laurel|bay leaf|bay leaves,spice_herb,,usda_sr_legacy,170917,"Spices, bay leaf",313,7.61,74.97,8.36,26.3,,23
+paprika,Paprika,Paprika,paprika,spice_herb,,usda_sr_legacy,171329,"Spices, paprika",282,14.14,53.99,12.89,34.9,10.34,68
+mani,Peanuts,Mani,mani|peanuts|raw peanuts,legume,,usda_sr_legacy,172430,"Peanuts, all types, raw",567,25.8,16.13,49.24,8.5,4.72,18
+peanut-butter,Peanut butter (unsalted),Peanut butter,peanut butter,legume,,usda_sr_legacy,172470,"Peanut butter, smooth style, without salt",598,22.21,22.31,51.36,5,10.49,17
+red-kidney-beans,Red kidney beans,Red kidney beans,red kidney beans|kidney beans|red beans,legume,Dry.,usda_sr_legacy,173744,"Beans, kidney, red, mature seeds, raw",337,22.53,61.29,1.06,15.2,2.1,12
+white-beans,White beans,Puting bitsuwelas,white beans|navy beans|bitsuwelas,legume,Dry.,usda_sr_legacy,175202,"Beans, white, mature seeds, raw",333,23.36,60.27,0.85,15.2,2.11,16
+bagoong-alamang,Shrimp paste,Bagoong alamang,bagoong|bagoong alamang|shrimp paste,condiment_sauce,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+atsuete,Annatto seeds,Atsuete,atsuete|achuete|annatto,spice_herb,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
+tausi,Fermented black beans,Tausi,tausi|salted black beans|fermented black beans,condiment_sauce,Not in USDA SR Legacy. Needs PhilFCT.,pending_philfct,,,,,,,,,
